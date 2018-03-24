@@ -1,6 +1,7 @@
 # Pig Game
 A JavaScript "Pig" dice game.
 
+![Pig Game](https://github.com/galbalazs87/pig-game/master/img/screenshot.jpg)
 
 ## Game rules
 
