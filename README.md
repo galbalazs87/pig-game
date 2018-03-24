@@ -3,6 +3,8 @@ A JavaScript "Pig" dice game.
 
 ![Pig Game](https://github.com/galbalazs87/pig-game/blob/master/img/screenshot.jpg)
 
+## [Play the game here!](http://galbalazs.co.hu/pig-game/)
+
 ## Game rules
 
 * The game has 2 players, playing in rounds
